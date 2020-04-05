@@ -1,0 +1,17 @@
+body {
+    background-color: #3385ff;
+    background: linear-gradient(#3385ff, #0055cc);
+    background-image: url(bgi.jpg);
+    color: #aaa;
+}
+#index_list {
+    background-color: #bbb;
+    background: linear-gradient(#bbb, #888);
+    color: #222;
+    padding: 20px;
+    border: solid 1px #222;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
+#index_list a { color: #222; }
